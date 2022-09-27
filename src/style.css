@@ -1,0 +1,28 @@
+
+#data{
+margin-left: 50px;
+}
+
+#data1{
+    margin-left: 26px;
+    }
+
+    #data2{
+        margin-left: 32px;
+        }
+        button{
+            border: 2px solid black;
+            margin-top: 6%;
+            padding: 1%;
+            padding-right: 6%;
+            padding-left: 4%;
+            background-color: white;
+        }
+        body{
+            margin-top: 5%;
+            margin-left: 5%;
+        }
+        td{
+            padding: 25px;
+        }
+        
